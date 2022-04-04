@@ -1,6 +1,3 @@
-# hello-world
-This is my first repository on GitHub. 
-
 # About Me
 My name is **Hedyeh** and I am a *Mechanical Engineer*. I love programming and I'm always learning. 
 
